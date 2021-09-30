@@ -1,0 +1,9 @@
+.git
+.circleci
+.vscode
+venv
+output_text_files
+
+Dockerfile
+Makefile
+*.sh
